@@ -1,0 +1,8 @@
+sam_dir: 
+  class: Directory
+  path: "./data/test-demic/sam_dir/"
+fasta_dir:
+  class: Directory
+  path: "./data/test-demic/fasta_dir/"
+output_dir_name: "test_output"
+window_size: 500

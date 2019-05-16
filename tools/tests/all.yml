@@ -1,0 +1,17 @@
+- doc: Main test for DEMIC
+  job: ./test-demic-job.yml
+  tool: ../demic.cwl
+  should_fail: false
+  output:
+    output_dir:
+      class: Directory
+      location: "test_output"
+      listing:
+        - class: File
+          location: "DEMIC.log"
+        - class: File
+          location: "all_PTR.txt"
+        - class: File
+          location: "final.contigs_ptr.txt"
+        - class: File
+          location: "testR1.0.2.R.out"
