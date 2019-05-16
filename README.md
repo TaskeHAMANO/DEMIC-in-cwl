@@ -8,7 +8,7 @@ Wrapper tool of [DEMIC](https://sourceforge.net/projects/demic/) by [CWL](https:
 * cwl-runner such as [cwltool](https://github.com/common-workflow-language/cwltool)
 * Docker
     * If you cannot use docker, this tool runs with `--no-container` options.
-    * However, you have to install dependent tools of RaGOO, such as R, R libraries(reshape2, lme4, FactoMineR), and perl.
+    * However, you have to install dependent tools of DEMIC, such as R, R libraries(reshape2, lme4, FactoMineR), and perl.
 
 ## How to use
 
