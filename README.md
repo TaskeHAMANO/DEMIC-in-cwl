@@ -1,6 +1,6 @@
 # DEMIC-in-cwl
 
-Wrapper tool of [DEMIC](https://sourceforge.net/projects/demic/) by [CWL](https://github.com/common-workflow-language/common-workflow-language) and [Docker](https://www.docker.com)
+A wrapper tool of [DEMIC](https://sourceforge.net/projects/demic/) by [CWL](https://github.com/common-workflow-language/common-workflow-language) and [Docker](https://www.docker.com)
 
 ## Requirements
 
